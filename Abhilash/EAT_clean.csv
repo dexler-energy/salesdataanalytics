@@ -1,0 +1,69 @@
+CUSTOMER INDUSTRY,STATUS,LEAD SOURCE,PRIORITY,DEXLER CONTACT,STATE,EA PROPOSAL,CUSTOMER RESPONSE,WORK ORDER,CONTACT
+Food Processing,Disqualified,Internal,COLD,Ikram,Karnataka,YES,NO,NOT RECIEVED,
+Automobile,Disqualified, ,COLD,Anuj,Madhya Pradesh,NO,YES,NOT RECIEVED,"Pradeep Jain, Manager, pradeep.jain@avtec.in, (7292256134)"
+Automobile,Disqualified,Internal,COLD,Ikram,Tamilnadu,YES,NO, ,
+Food Processing,Disqualified, ,COLD,Anuj,Madhya Pradesh,NO,YES,NOT RECIEVED," , Technical head, Atul pardesi, (7697900539)"
+Automobile,Lead,Internal,COLD,Ikram,Tamilnadu,YES,NO, ,
+Commercial,Lead, ,WARM,Karan,Karnataka,YES,YES,NOT RECIEVED,"Sunil Govind, Director Facilities, sunil@biec.in, (8066246513)"
+Automobile,Disqualified,Internal,COLD,Ikram,Tamilnadu,YES,NO, ,
+Automobile,Lead,Internal,COLD,Ikram,Tamilnadu,YES,NO, ,
+Automobile,Lead,Internal,COLD,Ikram,Tamilnadu,YES,NO, ,
+Textile,Lead, ,HOT,Premkumar,Karnataka,NO,YES,NOT RECIEVED,"Damodar, DGM, damodar.m@bombayrayon.com, (9538872782)"
+Food Processing,Lead,Internal,COLD,Ikram,Karnataka,YES,NO, ,
+Food Processing,Lead,Internal,HOT,Gurpreet,Punjab,YES,YES,NOT RECIEVED,"Mr.Abhijit Ghosh, General Manager, abhijit.ghosh@bonn.in, (8872087748)"
+Glass,Disqualified,Internal,COLD,Ikram,Tamilnadu,YES,NO, ,
+Tyre,Lead, ,WARM,Anuj,Madhya Pradesh,NO,YES,NOT RECIEVED,"Dharmesh Pandya, Dep Manager,ED, dharmesh-pandya@bridgestone.co.in, (7292423333)"
+Automobile,Disqualified,Internal,COLD,Ikram,Tamilnadu,YES,NO, ,
+Plastics,Lead, ,COLD,Karan,Pondicherry,YES,YES,NOT RECIEVED,"S.K.Ojha, Plant Head, skojha@brightbrothers.co.in, (9443346771)"
+Plastics,Lead,Internal,HOT,Ikram,Karnataka,YES,YES,NOT RECIEVED,"Sreenivasu MN, Manufacturing Manager,  , (9900083407)"
+Food Processing,Lead,Internal,COLD,Ikram,Karnataka,YES,NO, ,
+Food Processing,Lead,Internal,COLD,Gurpreet,Punjab,NO,NO,NOT RECIEVED,"Mr.Solanki, Plant Head,  , (8427289100)"
+Rubber,Disqualified,Internal,COLD,Ikram,Tamilnadu,NO,NO, ,"Senthil Velan,  ,  , (89093036615)"
+Automobile,Lead, ,COLD,Karan,Maharashtra,NO, , ,"Rajesh Gorade, Manager Utilities, rajeshgorade@eaton.com, (9765401330)"
+Textile,Disqualified,Internal,COLD,Ikram,Tamilnadu,YES,NO, ,
+Food Processing,Lead,,HOT,Premkumar,Karnataka,YES,NO,NOT RECIEVED,"Tanzil
+ YV Ramana, MD
+ Factory Mananger, tanzil@fairyfoods.com, (9845078625, 9573444120)"
+Automobile,Lead, ,WARM,Karan,Maharashtra,NO,NO,NOT RECIEVED,"Gopal Bhosale, Sr. Manager Maintenance, gopal.bhosale@gabriel.co.in, (9922993280)"
+Chemical,Lead, ,COLD,Karan,Karnataka,NO, , ,"Suresh Nath, Plant Head, sureshnath@sfdyes.com, (9845151880)"
+Healthcare,Lead,Internal,COLD,Gurpreet,Punjab,YES,NO,NOT RECIEVED,"Mr.Naveen Tiwari,  , naveen.k.tiwari@gsk.com, (9872802457)"
+Food Processing,Lead,Internal,WARM,Ikram,Karnataka,YES,YES,RECIEVED,
+Automobile,Lead,Internal,COLD,Ikram,Karnataka,YES,YES, ,
+Healthcare,Lead,Internal,WARM,Gurpreet,Andhra Pradesh,YES,YES,NOT RECIEVED,"Mr.Madhu Karunakaran,  , madhu.z.karunakaran@gsk.com, (9000420540)"
+Ceramic,Disqualified, ,COLD,Anuj,Karnataka,NO,YES,our team not interested,"Mr.Jitesh Sharma, Energy manager, jeetesh@hrjohnsonindia.com, (7272258556, 7272258557, 9893039116)"
+Food Processing,Disqualified, ,COLD,Anuj,Madhya Pradesh,NO,YES,NOT RECIEVED," , Enegry manager, shekhar@odtin.biz, (9993020331)"
+Automobile,Lead,Internal,WARM,Dinesh,Tamilnadu,YES,YES,RECIEVED,"Pradeep, Dy. Manager, 271284@hmil.net, (8056140213)"
+Steel,Lead, ,COLD,Anuj,Madhya Pradesh,YES,YES,NOT RECIEVED,"PK gupta, Manager, pk_gupta@nsail.com, (9755550389)"
+Dairy,Lead, ,COLD,Anuj,Madhya Pradesh,NO,YES,NOT RECIEVED,"Mr. KAMAL KUMAR, Director, chawlakamalkumar@yahoo.co.in, (9425048827, 7272403396, 7272259043)"
+Textile,Lead, ,COLD,Karan,Karnataka,YES,YES,RECIEVED,"Vasudev Murthy, Vice President,  , (9342430073)"
+Forging and Castings,Disqualified,Internal,COLD,Dinesh,Karnataka,YES,YES,RECIEVED,"Madhukar Jois, MD, jois@malnad.co.in, ( )"
+Plastics,Lead, ,HOT,Karan,Pondicherry,YES,YES,RECIEVED,"Parthiban, Asst manager, k_parthiban@supreme.co.in, (9360905805)"
+Aluminium ,Lead,Internal,COLD,Piyush,Maharashtra,YES,YES,RECIEVED,
+Food Processing,Lead,Internal,COLD,Dinesh,Karnataka,YES,YES,NOT RECIEVED,"Neelabh, Vipul, Aravindhan, Asst. Manager, Neelabh.Tewari@itc.in, (9008027727)"
+Food Processing,Lead, ,HOT,Premkumar/Karan,Karnataka,YES,YES,NOT RECIEVED,"Nagarajappa / Chandan, Manager Maintenance, nagarajappa.c@mtrfoods.com, (9880240365)"
+Home appliances,Lead,Internal,HOT,Piyush/Karan,Maharashtra,YES,YES,NOT RECIEVED,"Mahadik,  ,  , (9225069991)"
+Textile,Lead, ,HOT,Anuj,Madhya Pradesh,YES,YES,PO awaited,"Ashok Jain, VP,Commercial, Ajain@pratibhasyntex.com, (9303278152)"
+Textile,Lead, ,HOT,Anuj,Madhya Pradesh,YES,YES,Payment for A1 received,"Sanjeet Agarwal,COO, COO, sandeep@wearitgroup.com, (98930030436)"
+Food Processing,Disqualified,Internal,COLD,Gurpreet,Punjab,NO, ,NOT RECIEVED,"Mr.Manchanda, Plant Head, pajlabh@gmail.com, (9888497043)"
+Automobile,Lead,Internal,COLD,Gurpreet,Punjab,YES,YES,NOT RECIEVED,"Mr.Sanjiv Gupta
+ Mr.Prashant Khullar, Production Head
+Sr.Manager (Maintainence), sanjivgupta@smlisuzu.com
+pkhullar.maint@smlisuzu.com, (9815542090, 8146832469)"
+Textile,Lead,Internal,WARM,Gurpreet,Punjab,NO, , ,"Mr. DS Pandey, AGM (Engg.), hodengg.db@winsomegroup.com, (9216388063)"
+Automobile,Lead,Internal,COLD,Gurpreet,Punjab,NO,NO,NOT RECIEVED,"Mr.Ashween Parmar, Electrical Head, ashween@sonalika.com, (9814288856)"
+Space,Lead, ,HOT,Premkumar,Karnataka,YES,YES,NOT RECIEVED,"Shivaram, Dy, Manager, shivaram@sitarindia.com, (9449070130)"
+Commercial,Disqualified, ,WARM,Premkumar,Telangana,NO,YES,NOT RECIEVED,"Linu George,  , linu.george@icicibank.com, (9000723693)"
+Food Processing,Lead, ,WARM,Premkumar,Tamilnadu,NO,YES,NOT RECIEVED,"Gurunathan, Corporate Manager, Technical, gurunathang@sugunafoods.co.in, (9345760875)"
+Garments,Lead, ,WARM,Premkumar,Karnataka,YES,YES,NOT RECIEVED,"S A Selvamani, Director, saselvamani@motherlandgroup.com, ( )"
+Food Processing,Hold, ,WARM,Premkumar,Andhra Pradesh,NO,YES,NOT RECIEVED,"Subbaih, GM,  , (9000115141)"
+Automobile,Lead,Internal,COLD,Ikram,Karnataka,YES, , ,
+Automobile,Lead, ,WARM,Karan,Maharashtra,YES,NO,NOT RECIEVED,"Sandeep Patil, Manager Maintenance, s.patil@sigmaelectric.com, (9657722821)"
+Rubber,Lead, ,HOT,Dinesh,Tamilnadu,YES, ,NOT RECIEVED,"M.Rajesh Khanna, GM - Site maintenance, rajesh-khanna.maharabhushnum@in.michelin.com, (8939824871)"
+Healthcare,Lead, ,HOT,Ikram,Tamilnadu,YES,YES,NOT RECIEVED,"Gaurav Agarwal,  , Gaurav.Agarwal@rb.com, ( )"
+Hotel,Lead, ,HOT,Ikram,Karnataka,YES, , ,"Mr. Selvaraj, GM-Engg, gm.engineering@royalorchidhotels.com, (9902000093)"
+Aluminium ,Lead,Internal,COLD,Piyush/Karan,Maharashtra,YES,YES,RECIEVED,
+Textile,walk in audit required, ,MEDIUM,Anuj,Madhya Pradesh,NO,YES,NOT RECIEVED,"Sanjeet Agarwal,COO, COO, sandeep@wearitgroup.com, (98930030436)"
+Food Processing,walk in audit required, ,MEDIUM,Gurpreet,Punjab,NO,YES,NOT RECIEVED,"Mr.Jaspreet Singh Kanwar, Plant Head, jakhsp@gmail.com, (9876502323)"
+Healthcare,Lead,Internal,WARM,Gurpreet,Maharashtra,NO, , ,"Ms. Purwa Duggal, Admin Head, purwa.duggal@fortishealthcare.com, (2267994444)"
+Healthcare,Lead,Internal,WARM,Gurpreet,Maharashtra,NO, , ,"Mr. B.G. Patil, Site Engineer, mgmsiteoffice@yahoo.in, (9322887258)"
+Automobile,Lead,,cold,Anuj Singh Tomar,Madhya Pradesh,Yes,,Proposal submitted,
